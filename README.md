@@ -12,3 +12,5 @@ Given two strings, write a method to decide if one is a permutation of the other
 * CTCI page 91 question 1.5:
 Check if two strings are one edit or zero edits away (edit = insert, remove, or replace a character).
   * [Code](http://ideone.com/yUTcNY) (incorrect/incomplete)
+
+* to-do: CTCI page 91 1.7, 1.8, and 1.9
