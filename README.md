@@ -6,4 +6,4 @@ Implement an algorithm to determine if a string has all unique characters. What 
 [Code](http://ideone.com/embed/jrtcab#)
 
 CTCI page 90 question 1.2:
-Given two strings, write a method to decide if one is a permutation of the other. [Code](http://ideone.com/xjYP6B)
+Given two strings, write a method to decide if one is a permutation of the other. [Code (better space-efficiency than CTCI solution!)](http://ideone.com/xjYP6B)
