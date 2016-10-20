@@ -8,3 +8,7 @@ Implement an algorithm to determine if a string has all unique characters. What 
 * CTCI page 90 question 1.2: 
 Given two strings, write a method to decide if one is a permutation of the other.
   * [Code](http://ideone.com/xjYP6B) (better space-efficiency than CTCI solution!)
+
+* CTCI page 91 question 1.5:
+Check if two strings are one edit or zero edits away (edit = insert, remove, or replace a character).
+  * [Code](http://ideone.com/yUTcNY) (incorrect/incomplete)
