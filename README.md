@@ -14,3 +14,7 @@ Check if two strings are one edit or zero edits away (edit = insert, remove, or 
   * [Code](http://ideone.com/yUTcNY) (incorrect/incomplete)
 
 * to-do: CTCI page 91 1.7, 1.8, and 1.9
+
+* CTCI page 94 question 2.1:
+Write code to remove duplicates from an unsorted linked list. Also try an O(1) space solution.
+  * [Code](http://ideone.com/rmQ5Rn)
