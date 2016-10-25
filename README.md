@@ -18,3 +18,7 @@ Check if two strings are one edit or zero edits away (edit = insert, remove, or 
 * CTCI page 94 question 2.1:
 Write code to remove duplicates from an unsorted linked list. Also try an O(1) space solution.
   * [Code](http://ideone.com/rmQ5Rn)
+
+* CTCI page 95 question 2.7:
+Given two singly linked lists, determine if the two lists intersect, and return the intersecting node (based on reference, not value).
+  * [Code](http://ideone.com/KwJqfy)
