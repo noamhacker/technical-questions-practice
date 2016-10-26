@@ -26,3 +26,6 @@ Given two singly linked lists, determine if the two lists intersect, and return 
 * CTCI page 99 question 3.4:
 Implement a Queue class which implements a queue using two stacks.
   * [Code](http://ideone.com/p2kyu3)
+
+* CTCI page 109 question 4.2: Given a sorted increasing array, create a binary search tree with minimal height.
+  * [Code](http://ideone.com/wekUzn)
