@@ -22,3 +22,7 @@ Write code to remove duplicates from an unsorted linked list. Also try an O(1) s
 * CTCI page 95 question 2.7:
 Given two singly linked lists, determine if the two lists intersect, and return the intersecting node (based on reference, not value).
   * [Code](http://ideone.com/KwJqfy)
+
+* CTCI page 99 question 3.4:
+Implement a Queue class which implements a queue using two stacks.
+  * [Code](http://ideone.com/p2kyu3)
