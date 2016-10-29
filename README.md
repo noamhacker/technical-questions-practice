@@ -32,3 +32,6 @@ Implement a Queue class which implements a queue using two stacks.
 
 * CTCI page 109 question 4.3: Given a binary tree, create a linked list of all the nodes at each depth (if the tree's depth is N, you must create N linked lists)
   * [Code](http://ideone.com/tYH7Mj), using HashMap instead of ArrayList
+
+* CTCI page 110 question 4.5: Implement a function to check if a binary tree is a binary search tree.
+  * [Code](http://ideone.com/8oTq3U)
