@@ -29,3 +29,6 @@ Implement a Queue class which implements a queue using two stacks.
 
 * CTCI page 109 question 4.2: Given a sorted increasing array, create a binary search tree with minimal height.
   * [Code](http://ideone.com/wekUzn)
+
+* CTCI page 109 question 4.3: Given a binary tree, create a linked list of all the nodes at each depth (if the tree's depth is N, you must create N linked lists)
+  * [Code](http://ideone.com/tYH7Mj), using HashMap instead of ArrayList
