@@ -35,3 +35,6 @@ Implement a Queue class which implements a queue using two stacks.
 
 * CTCI page 110 question 4.5: Implement a function to check if a binary tree is a binary search tree.
   * [Code](http://ideone.com/8oTq3U)
+  
+* CTCI page 116 question 5.3: You have an integer and you can flip exactly one bit from a 0 to a 1. Write code to find the length of the longest sequence of 1s you could create.
+  * [Code](http://ideone.com/9Vujnx), worst case O(n^2) but can be improved to O(n) with some simple logic
