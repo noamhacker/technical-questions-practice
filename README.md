@@ -41,3 +41,6 @@ Implement a Queue class which implements a queue using two stacks.
 
 * CTCI page 134 question 8.1: A child is running up a staircase with n steps and can hop either 1 step, 2 steps, or 3 steps at a time. Implement a method to count how many possible ways the child can run up the stairs.
   * [Code](http://ideone.com/TjzBnK), bottom-up approach, O(n) time, O(1) space (compared to CTCI's top-down O(n), O(n) solution).
+  
+* CTCI page 135 question 8.2: Find the shortest path in a grid where certain cells are off limits. You start at the top left and want to get to the bottom right, and you can only move right or down. 
+  * My solution would start at the bottom right and visit every cell, using a second grid to store the value of steps away it is from the goal (each cell is 1 step more than its smallest adjacent cell's length). Then from the top right, continuously move to the adjacent cell with the lowest step value. Visiting each cell means O(rc) time, with r being row and c being column. CTCI's solution uses recursion to follow a similar strategy and is also O(rc) time, but less than O(rc) space (which mine is).
