@@ -38,3 +38,6 @@ Implement a Queue class which implements a queue using two stacks.
   
 * CTCI page 116 question 5.3: You have an integer and you can flip exactly one bit from a 0 to a 1. Write code to find the length of the longest sequence of 1s you could create.
   * [Code](http://ideone.com/9Vujnx), worst case O(n^2) but can be improved to O(n) with some simple logic
+
+* CTCI page 134 question 8.1: A child is running up a staircase with n steps and can hop either 1 step, 2 steps, or 3 steps at a time. Implement a method to count how many possible ways the child can run up the stairs.
+  * [Code](http://ideone.com/TjzBnK), bottom-up approach, O(n) time, O(1) space (compared to CTCI's top-down O(n), O(n) solution).
