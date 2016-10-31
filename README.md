@@ -49,4 +49,4 @@ Implement a Queue class which implements a queue using two stacks.
   * [Code](http://ideone.com/rm6DQ7)
 
 * InterviewBit [Flatten Binary Tree to Linked List](https://www.interviewbit.com/problems/flatten-binary-tree-to-linked-list/): Given a binary tree, flatten it to a linked list in-place (a tree with only the right nodes populated in a straight line).
-  * [Code (copy and paste into InterviewBit's environment](http://ideone.com/N8N30i)
+  * [Code](http://ideone.com/N8N30i) (copy and paste into InterviewBit's environment). There may be a more optimal way to not store an ArrayList and instead build the answer on the fly. The time complexity is O(n) because we visit each node once (pre-order traversal).
