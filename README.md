@@ -47,3 +47,6 @@ Implement a Queue class which implements a queue using two stacks.
   
 * CTCI page 135 question 8.5: Write a recursive function to multiply two positive integers without using the * operator (or / operator). You can use addition, subtraction, and bit shifting, but you should minimize the number of those operations.
   * [Code](http://ideone.com/rm6DQ7)
+
+* InterviewBit [Flatten Binary Tree to Linked List](https://www.interviewbit.com/problems/flatten-binary-tree-to-linked-list/): Given a binary tree, flatten it to a linked list in-place (a tree with only the right nodes populated in a straight line).
+  * [Code (copy and paste into InterviewBit's environment](http://ideone.com/N8N30i)
