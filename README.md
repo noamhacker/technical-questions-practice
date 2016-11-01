@@ -50,3 +50,6 @@ Implement a Queue class which implements a queue using two stacks.
 
 * InterviewBit [Flatten Binary Tree to Linked List](https://www.interviewbit.com/problems/flatten-binary-tree-to-linked-list/): Given a binary tree, flatten it to a linked list in-place (a tree with only the right nodes populated in a straight line).
   * [Code](http://ideone.com/N8N30i) (copy and paste into InterviewBit's environment). There may be a more optimal way to not store an ArrayList and instead build the answer on the fly. The time complexity is O(n) because we visit each node once (pre-order traversal).
+
+* CTCI page 136 question 8.11: Given infinite quarters, dimes, nickels, and pennies, caulculate the number of ways of representing n cents.
+  * [Code](http://ideone.com/6zTbZ5)
